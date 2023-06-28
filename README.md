@@ -19,20 +19,20 @@ Run signoff checks to make sure that the design chip can be fabricated<br/>
 # Agenda<br/>
 * Design Specification and RTL Coding<br/>
 * Design Simulation Using the Xcelium Simulator<br/>
-- Simulating a Simple Counter Design<br/>
+  - Simulating a Simple Counter Design<br/>
 * Code Coverage Using the Integrated Metrics Center<br/>
-- Code Coverage Flow for a Simple Counter Design<br/>
+  - Code Coverage Flow for a Simple Counter Design<br/>
 * The Synthesis Stage<br/>
-- Running the Basic Synthesis Flow<br/>
+  - Running the Basic Synthesis Flow<br/>
 - Running the Synthesis Flow with DFT<br/>
 * The Test Stage<br/>
-- Running the Basic ATPG Flow in Modus Test<br/>
+  - Running the Basic ATPG Flow in Modus Test<br/>
 * The Equivalency Checking Stage<br/>
-- Running the Equivalence Checking Flow in Conformal<br/>
-- Creating a .v Format File from .lib Format<br/>
+  - Running the Equivalence Checking Flow in Conformal<br/>
+  - Creating a .v Format File from .lib Format<br/>
 * The Implementation Stage<br/>
-- Running the Basic Implementation Flow<br/>
+  - Running the Basic Implementation Flow<br/>
 * Gate-Level Simulation    <br/>
-- Running Gate-Level Simulations on a Simple Counter Design<br/>
+  - Running Gate-Level Simulations on a Simple Counter Design<br/>
 * Timing Analysis and Debug<br/>
 - Using Global Timing Debug Interface to Debug Timing Results<br/>
